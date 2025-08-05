@@ -1,6 +1,6 @@
 # 📱 ItriGSL-Repertuvar
 
-Android cihazlar için geliştirilmiş repertuvar uygulaması. Bu repoda uygulamanın APK dosyasını bulabilir, indirip doğrudan cihazınıza kurabilirsiniz.
+**Android** cihazlar için geliştirilmiş repertuvar uygulaması. Bu repoda uygulamanın APK dosyasını bulabilir, indirip doğrudan cihazınıza kurabilirsiniz.
 
 ---
 
@@ -35,4 +35,4 @@ APK dosyası VirusTotal üzerinde taranmıştır. Sonuçları aşağıdaki bağl
 
 Herhangi bir sorunuz olursa benimle Whatsapp üzerinden iletişime geçebilirsiniz.
 
-© 2025 – Created by **Hilmi**
+© 2025 – Created by **Hilmi**.
